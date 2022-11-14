@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intent Explicit App</string>
+    <string name="AddNumber">ADD NUMBER</string>
+    <string name="AddText">ADD TEXT</string>
+    <string name="CalculatorRuang">CALCULATOR RUANG</string>
+    <string name="satu">0</string>
+    <string name="add_number">Add Number</string>
+    <string name="halo">HALO</string>
+    <string name="proses">SUBMIT</string>
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sisi">MASUKKAN NILAI SISI</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil">HASIL</string>
+    <string name="hasilLuas">HASIL LUAS</string>
+    <string name="hasilVolume">HASIL VOLUME</string>
+    <string name="judul">Mengitung Luas dan Volume pada Kubus</string>
+    <string name="luas">Luas Kubus</string>
+    <string name="volume">Volume Kubus</string>
+    <string name="create">Create by Mella Nadiatul Husna 6304201276</string>
+</resources>
